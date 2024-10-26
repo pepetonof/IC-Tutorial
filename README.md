@@ -9,8 +9,8 @@
   - José Antonio Fuentes Tomás
 
 # Contenido práctico del tutorial
-- RNN para clasificacion de FasionMNIST
-- GA para el problema de las 8 reinas
-- GA para el problema del viajero
-- PG para clasificacion de imagenes
-- PSO para optimizar una función
+- RNN para clasificacion de FasionMNIST (NN-CNN)
+- GA para el problema de las 8 reinas (8Queens)
+- GA para el problema del viajero (TSP)
+- PG para clasificacion de imagenes (PG)
+- PSO para optimizar una función (PSO)
